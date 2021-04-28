@@ -1,0 +1,8 @@
+WARNING: Value for scheme.headers does not match. Please report this to <https://github.com/pypa/pip/issues/9617>
+distutils: /Library/Frameworks/Python.framework/Versions/3.9/include/python3.9/UNKNOWN
+sysconfig: /Library/Frameworks/Python.framework/Versions/3.9/include/python3.9
+WARNING: Additional context:
+user = False
+home = None
+root = None
+prefix = None
